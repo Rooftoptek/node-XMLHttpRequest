@@ -1,7 +1,7 @@
 {
-  "name": "xmlhttprequest",
+  "name": "xmlhttprequest+socket",
   "description": "XMLHttpRequest for Node",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "author": {
     "name": "Dan DeFelippi",
     "url": "http://driverdan.com"
@@ -10,9 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/driverdan/node-XMLHttpRequest.git"
+    "url": "git://github.com/Rooftoptek/node-XMLHttpRequest.git"
   },
-  "bugs": "http://github.com/driverdan/node-XMLHttpRequest/issues",
+  "bugs": "http://github.com/Rooftoptek/node-XMLHttpRequest/issues",
   "engines": {
     "node": ">=0.4.0"
   },
