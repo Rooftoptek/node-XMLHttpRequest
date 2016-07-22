@@ -1,5 +1,5 @@
 {
-  "name": "xmlhttprequest+socket",
+  "name": "xmlhttprequest-socket",
   "description": "XMLHttpRequest for Node",
   "version": "1.9.0",
   "author": {
