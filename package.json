@@ -1,7 +1,7 @@
 {
   "name": "xmlhttprequest-socket",
   "description": "XMLHttpRequest for Node",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "author": {
     "name": "Dan DeFelippi",
     "url": "http://driverdan.com"
