@@ -1,4 +1,4 @@
-# node-XMLHttpRequest #
+# XMLHttpRequest-sockets #
 
 Forked from https://github.com/driverdan/node-XMLHttpRequest.git
 
